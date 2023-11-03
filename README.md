@@ -2,7 +2,7 @@
 ![image](https://github.com/RediZypce/Graduate-Admissions-Prediction/assets/109640560/62b972fb-f9be-46a9-aa26-bb5a5bfdf92a)
 
 # Overview
-This project is aimed at building a deep learning model to predict the likelihood of graduate admission based on various applicant profile features. The dataset used for this project is "admissions_data.csv," which contains information about graduate applicants and their attributes. The model is developed using deep learning techniques and is intended to provide a predictive tool for evaluating the chances of admission for graduate applicants.
+This project is aimed at building a deep learning model to predict the likelihood of graduate admission based on various applicant profile features. The dataset used for this project is "admissions_data.csv," which contains information about graduate applicants and their attributes. The model is developed using deep learning techniques and is intended to provide a predictive tool for evaluating the chances of admission for graduate applicants. [Get Started](Graduate_Admissions_Prediction.ipynb)
 
 # Dataset
 The dataset used in this project is named "admissions_data.csv." It is a CSV (Comma-Separated Values) file containing information about graduate applicants, including features such as GRE scores, TOEFL scores, university ratings, statement of purpose strength (SOP), letter of recommendation strength (LOR), undergraduate GPA (CGPA), research experience, and the target variable, which is the "Chance of Admit."
@@ -53,4 +53,4 @@ Follow the instructions in the Jupyter Notebook to load the dataset, preprocess 
 In addition to model training and evaluation, the project includes exploratory data visualizations to better understand the dataset. You can find these visualizations in the Jupyter Notebook.
 
 # Contact Me
-Feel free to contact me on [x](https://twitter.com/RediZypce)
+Feel free to contact me on [X](https://twitter.com/RediZypce)
